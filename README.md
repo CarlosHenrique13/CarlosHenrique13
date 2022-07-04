@@ -25,9 +25,9 @@
 
 <div id="redes-sociasis" style="">
   <h2 style="color: #1B98E0"> Redes Socais <h2>
-  <a href=""><img src="./img/logo-instagram.png" style="width: 10%;">
+  <a href="https://www.instagram.com/_carloshenrique13/"><img src="./img/logo-instagram.png" style="width: 10%;">
   </a>
-  <a href=""><img src="./img/logo-facebook.png" style="width: 10%;">
+  <a href="https://www.facebook.com/desenvolvendoti"><img src="./img/logo-facebook.png" style="width: 10%;">
   </a>
   <a href=""><img src="./img/logo-linkedin.png" style="width: 10%;">
   </a>
