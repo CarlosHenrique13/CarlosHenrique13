@@ -1,7 +1,4 @@
-<script>importCSS('section.css')</script>
-
-### Sejá Bem-Vindo ao Github CarlosHenrique13
-
+## Olá Sejá Bem-Vindo ao Meu Github CarlosHenrique13
 <div align="center">
   <a href="https://github.com/CarlosHenrique13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHenrique13&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -51,3 +48,4 @@
 </div>
 
 <h2 style="color: #1B98E0"><img src="./img/logo-github.png" style="width: 5%" alt="Github Logo azul claro"> Projetos</h2>
+
