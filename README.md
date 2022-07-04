@@ -5,15 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenrique13&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<style>
-  #direita{
-    width:100%
-  }
-  #direita#img{
-    width:10%
-
-  }
-</style>
 <!-- Tecnologias -->
 <div id="direita" style="display: inline-block;">
     <h2 style="color: #1B98E0" >Conhecimento</h2>
@@ -29,12 +20,7 @@
 
 <h2 style="color: #1B98E0">Portifolio</h2>
 <a href="width:100%">
-
-<video autoplay style="width: 100%" muted>
-  <source src="./img/Baner-Github.mp4" type="video/mp4" style="width: 100%">
-  <img style="width: 100%" src="./img/baner-Github.jpg" alt="portifolio carloshenrique13">
-</video>
-
+<img style="width: 100%" src="./img/Baner-Github.jpg" alt="portifolio carloshenrique13">
 </a>
 
 <div id="redes-sociasis" style="">
