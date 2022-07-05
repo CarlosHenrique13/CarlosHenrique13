@@ -19,7 +19,7 @@
 </div>
 
 <h2 style="color: #1B98E0">Portifolio</h2>
-<a href="width:100%">
+<a href="https://carloshenrique13.github.io/Portfolio/" style="width:100%">
 <img style="width: 100%" src="./img/Baner-Github.jpg" alt="portifolio carloshenrique13">
 </a>
 
